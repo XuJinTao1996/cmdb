@@ -10,13 +10,13 @@ this repo is a cmdb management platform,  the platform use etcd to store config 
 6. user management: user and user group,  rbac rules
 
 # todo
-[ ] Design tables
-[ ] user management
-[ ] datacenter management
-[ ] server management
-[ ] cluster management
-[ ] ip management
-[ ] switch management
+- [ ] Design tables
+- [ ] user management
+- [ ] datacenter management
+- [ ] server management
+- [ ] cluster management
+- [ ] ip management
+- [ ] switch management
 
 
 Let's Do it
